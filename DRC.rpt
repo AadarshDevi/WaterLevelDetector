@@ -1,0 +1,26 @@
+** Drc report for WaterLevelDetector_v5_tiny.kicad_pcb **
+** Created on 2026-04-02T16:38:07-0700 **
+
+** Found 4 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(91.0000 mm, 131.5000 mm): Pad 1 [Net-(J3-CC2)] of R4 on F.Cu
+    @(91.0000 mm, 130.8600 mm): Pad 2 [Net-(BZ1--)] of R4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(89.0000 mm, 130.8600 mm): Pad 2 [Net-(BZ1--)] of R3 on F.Cu
+    @(89.0000 mm, 131.5000 mm): Pad 1 [Net-(J3-CC1)] of R3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(84.5000 mm, 87.8600 mm): Pad 1 [Net-(U1-XTAL1/PB3)] of R2 on F.Cu
+    @(84.5000 mm, 87.2200 mm): Pad 2 [Net-(D2-A)] of R2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1800 mm)
+    Rule: netclass 'Default'; error
+    @(94.0000 mm, 87.5150 mm): Pad 2 [Net-(U1-PB2)] of R1 on F.Cu
+    @(94.0000 mm, 86.8750 mm): Pad 1 [Net-(D1-A)] of R1 on F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
